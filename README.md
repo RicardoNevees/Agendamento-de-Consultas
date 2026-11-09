@@ -1,6 +1,18 @@
 # README
 
-# Exercício 01 - Construção do Script com os Comandos DDL: Agendamento de Consultas ## 📌 Descrição da Atividade Este repositório contém a solução do Exercício 01, que tem como objetivo a prática de comandos DDL (Data Definition Language) para a construção das tabelas de um Banco de Dados Relacional baseado no contexto de "Agendamento de Consultas". A atividade envolve a análise do Modelo Relacional e do Dicionário de Dados para a criação correta das estruturas (`CREATE TABLE`) utilizando um cliente de banco de dados. ## 🎯 Objetivo - Praticar comandos DDL (`CREATE TABLE`, restrições de chaves, tipos de dados). - Utilizar clientes de banco de dados (ex: psql, pgAdmin, SQLTools ou DBeaver). - Consolidar a interpretação de Diagramas ER e Dicionários de Dados. ## 🛠️ Tecnologias e Ferramentas - **Banco de Dados:** PostgreSQL (via `dbdevcontainer`) - **Linguagem:** SQL (DDL) - **Clientes sugeridos:** psql, pgAdmin, SQLTools ou DBeaver ## 📁 Estrutura
+Exercício 01 - Construção do Script com os Comandos DDL: Agendamento de Consultas 
+
+📌 Descrição da Atividade 
+
+Este repositório contém a solução do Exercício 01, que tem como objetivo a prática de comandos DDL (Data Definition Language) para a construção das tabelas de um Banco de Dados Relacional baseado no contexto de "Agendamento de Consultas". 
+
+A atividade envolve a análise do Modelo Relacional e do Dicionário de Dados para a criação correta das estruturas (`CREATE TABLE`) utilizando um cliente de banco de dados. 
+
+🎯 Objetivo - Praticar comandos DDL (`CREATE TABLE`, restrições de chaves, tipos de dados). - Utilizar clientes de banco de dados (ex: psql, pgAdmin, SQLTools ou DBeaver). - Consolidar a interpretação de Diagramas ER e Dicionários de Dados. 
+
+🛠️ Tecnologias e Ferramentas - **Banco de Dados:** PostgreSQL (via `dbdevcontainer`) - **Linguagem:** SQL (DDL) - **Clientes sugeridos:** psql, pgAdmin, SQLTools ou DBeaver 
+
+📁 Estrutura
 
 # Sumário
 * [A - Executando o docker-compose.yml](#executando-o-docker-composeyml)
