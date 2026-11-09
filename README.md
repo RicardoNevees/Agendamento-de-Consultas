@@ -1,5 +1,7 @@
 # README
 
+# Exercício da disciplina Banco de Dados - Construção do Script com os comandos DDL
+
 # Sumário
 * [A - Executando o docker-compose.yml](#executando-o-docker-composeyml)
 * [B - Usando o SQL Notebook](#usando-o-sql-notebook)
