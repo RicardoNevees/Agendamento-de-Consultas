@@ -1,6 +1,6 @@
 # README
 
-Exercício 01 - Construção do Script com os Comandos DDL: Agendamento de Consultas
+Exercício 01 - Construção do Script com os Comandos DDL: Agendamento de Consultas  
 Exercício 02 - Construção do Script com os Comandos DML: Agendamento de Consultas
 
 📌 Descrição da Atividade
