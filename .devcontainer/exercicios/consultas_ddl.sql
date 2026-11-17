@@ -1,3 +1,7 @@
+-- ============================================================
+-- Exercício 01 - Comandos DDL - Agendamento de Consultas
+-- ============================================================
+
 -- DROP: deixa o script idempotente (pode rodar quantas vezes quiser)
 -- sem o IF EXISTS, o DROP quebrará na primeira execução
 DROP TABLE IF EXISTS agendamento;
